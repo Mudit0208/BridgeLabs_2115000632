@@ -5,17 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbb19a7e-7d45-4c1d-ac72-0d7fba44c3c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AnagramCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongestWordFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MostFrequentCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PalindromeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RemoveSpecificCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubstringOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ToggleCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VowelConsonantCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactorialCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FibonacciSequenceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GcdLcmCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumOfThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumberGuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TemperatureConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/AnagramCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/LongestWordFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/MostFrequentCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/PalindromeCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/RemoveSpecificCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/ReplaceWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/ReverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/StringCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/SubstringOccurrences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/ToggleCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/VowelConsonantCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cap/cap.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,63 +56,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbundantNumber.executor": "Run",
-    "Application.ArmstrongNumber.executor": "Run",
-    "Application.ArraySum.executor": "Run",
-    "Application.BMI.executor": "Run",
-    "Application.BMICalculator.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.CheckNumber.executor": "Run",
-    "Application.DigitFrequency.executor": "Run",
-    "Application.EmployeeBonus.executor": "Run",
-    "Application.FactorFinder.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.FactorialUsingForLoop.executor": "Run",
-    "Application.FactorsNum.executor": "Run",
-    "Application.FizzBuzz.executor": "Run",
-    "Application.FizzBuzzUsingWhileLoop.executor": "Run",
-    "Application.FriendsComparison.executor": "Run",
-    "Application.FriendsComparison2.executor": "Run",
-    "Application.GradeCalculator.executor": "Run",
-    "Application.GreatestFactor.executor": "Run",
-    "Application.HarshadNumber.executor": "Run",
-    "Application.LargestDigits.executor": "Run",
-    "Application.LeapYear2.executor": "Run",
-    "Application.LeapYear3.executor": "Run",
-    "Application.MeanHeight.executor": "Run",
-    "Application.MultiplicationTable.executor": "Run",
-    "Application.MultiplicationTable2.executor": "Run",
-    "Application.NumberCheck.executor": "Run",
-    "Application.OddEvenArrays.executor": "Run",
-    "Application.OddEvenNumbers.executor": "Run",
-    "Application.PowerOfNumber.executor": "Run",
-    "Application.PrimeCheck.executor": "Run",
-    "Application.ReverseNumber.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.RocketLaunchCountdown.executor": "Run",
-    "Application.RocketLaunchCountdown2.executor": "Run",
-    "Application.SpringSeason.executor": "Run",
-    "Application.StudentGrades.executor": "Run",
-    "Application.StudentGrades2.executor": "Run",
-    "Application.SumOfNaturalNumbers.executor": "Run",
-    "Application.SumOfNaturalNumbersWhile.executor": "Run",
-    "Application.SumUntilNegative.executor": "Run",
-    "Application.SumUntilZero.executor": "Run",
-    "Application.VotingEligibility.executor": "Run",
-    "Application.VowelConsonantCounter.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature-29-01-25",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/cap",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbundantNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnagramCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BMI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BMICalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeBonus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorFinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorialUsingForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorsNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzzUsingWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FriendsComparison.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FriendsComparison2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestFactor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HarshadNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MeanHeight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RocketLaunchCountdown.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RocketLaunchCountdown2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpringSeason.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGrades.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGrades2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNaturalNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNaturalNumbersWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumUntilNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumUntilZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VotingEligibility.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VowelConsonantCounter.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature-29-01-25&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/cap&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
