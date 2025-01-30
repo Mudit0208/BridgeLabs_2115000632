@@ -1,5 +1,3 @@
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 public class MostFrequentCharacter {
@@ -17,19 +15,19 @@ public class MostFrequentCharacter {
 
     // Method to find the most frequent character in a string
     public static char findMostFrequentCharacter(String input) {
-        Map<Character, Integer> frequencyMap = new HashMap<>();
+        int[] frequency = new int[256];  // Array to store frequency of each character
 
         for (char ch : input.toCharArray()) {
-            frequencyMap.put(ch, frequencyMap.getOrDefault(ch, 0) + 1);
+            frequency[ch]++;
         }
 
         char mostFrequent = '\0';
         int maxFrequency = 0;
 
-        for (Map.Entry<Character, Integer> entry : frequencyMap.entrySet()) {
-            if (entry.getValue() > maxFrequency) {
-                maxFrequency = entry.getValue();
-                mostFrequent = entry.getKey();
+        for (int i = 0; i < frequency.length; i++) {
+            if (frequency[i] > maxFrequency) {
+                maxFrequency = frequency[i];
+                mostFrequent = (char) i;
             }
         }
 

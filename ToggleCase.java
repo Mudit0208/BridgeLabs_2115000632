@@ -15,18 +15,19 @@ public class ToggleCase {
 
     // Method to toggle the case of each character in a string
     public static String toggleCase(String input) {
-        StringBuilder result = new StringBuilder();
+        char[] chars = new char[input.length()];
 
-        for (char ch : input.toCharArray()) {
+        for (int i = 0; i < input.length(); i++) {
+            char ch = input.charAt(i);
             if (Character.isUpperCase(ch)) {
-                result.append(Character.toLowerCase(ch));
+                chars[i] = Character.toLowerCase(ch);
             } else if (Character.isLowerCase(ch)) {
-                result.append(Character.toUpperCase(ch));
+                chars[i] = Character.toUpperCase(ch);
             } else {
-                result.append(ch);
+                chars[i] = ch;
             }
         }
 
-        return result.toString();
+        return new String(chars);
     }
 }

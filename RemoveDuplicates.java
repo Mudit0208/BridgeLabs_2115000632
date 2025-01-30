@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.HashSet;
 
 public class RemoveDuplicates {
     public static void main(String[] args) {
@@ -16,16 +15,17 @@ public class RemoveDuplicates {
 
     // Method to remove duplicate characters from a string
     public static String removeDuplicates(String input) {
-        HashSet<Character> seen = new HashSet<>();
-        StringBuilder result = new StringBuilder();
+        boolean[] seen = new boolean[256];  // Array to track seen characters
+        char[] result = new char[input.length()];
+        int index = 0;
 
         for (char ch : input.toCharArray()) {
-            if (!seen.contains(ch)) {
-                seen.add(ch);
-                result.append(ch);
+            if (!seen[ch]) {
+                seen[ch] = true;
+                result[index++] = ch;
             }
         }
 
-        return result.toString();
+        return new String(result, 0, index);
     }
 }

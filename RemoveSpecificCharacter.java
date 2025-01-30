@@ -19,14 +19,15 @@ public class RemoveSpecificCharacter {
 
     // Method to remove all occurrences of a specific character from a string
     public static String removeCharacter(String input, char charToRemove) {
-        StringBuilder result = new StringBuilder();
+        char[] chars = new char[input.length()];
+        int index = 0;
 
         for (char ch : input.toCharArray()) {
             if (ch != charToRemove) {
-                result.append(ch);
+                chars[index++] = ch;
             }
         }
 
-        return result.toString();
+        return new String(chars, 0, index);
     }
 }
