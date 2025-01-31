@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbb19a7e-7d45-4c1d-ac72-0d7fba44c3c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_Employee.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2s1DG6PhS2OlJhPoR8KOG7xs3as" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbundantNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnagramCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BMI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BMICalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateComparison.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitFrequency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeBonus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorFinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorialUsingForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorsNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzzUsingWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FriendsComparison.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FriendsComparison2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestFactor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HarshadNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MeanHeight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RocketLaunchCountdown.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RocketLaunchCountdown2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpringSeason.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGrades.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGrades2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNaturalNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNaturalNumbersWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumUntilNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumUntilZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VotingEligibility.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VowelConsonantCounter.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature-31-01-25&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/cap&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbb19a7e-7d45-4c1d-ac72-0d7fba44c3c1" name="Changes" comment="" />
+      <created>1737614088305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737614088305</updated>
+    </task>
+    <servers />
+  </component>
+</project>
