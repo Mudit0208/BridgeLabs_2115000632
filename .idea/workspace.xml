@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecb7a66e-bf07-4c36-8559-3eb8097b7063" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CircleDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HotelBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryBookSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_CircleDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_HotelBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_LibraryBookSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main_Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "feature-01-02-25",
+    "last_opened_file_path": "E:/cap",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
