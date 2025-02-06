@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="587034d1-9ca7-40ba-9f26-739b6503ff27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CompanyDepartmentSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ECommercePlatform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibrarySystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UniversityManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UniversitySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,38 +22,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2scGsdF2VOUVYAjiCZmQxfS2lKg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AthleteRounds.executor": "Run",
-    "Application.BankingSystem.executor": "Run",
-    "Application.CompanyDepartmentSystem.executor": "Run",
-    "Application.ECommercePlatform.executor": "Run",
-    "Application.EmployeeBonusCalculator.executor": "Run",
-    "Application.FootballTeamHeights.executor": "Run",
-    "Application.HandshakeCalculator.executor": "Run",
-    "Application.Hospital.executor": "Run",
-    "Application.LibrarySystem.executor": "Run",
-    "Application.SchoolSystem.executor": "Run",
-    "Application.UniversityManagementSystem.executor": "Run",
-    "Application.UniversitySystem.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature-05-02-25",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/cap",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AthleteRounds.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankingSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompanyDepartmentSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ECommercePlatform.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeBonusCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FootballTeamHeights.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HandshakeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hospital.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibrarySystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SchoolSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniversityManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniversitySystem.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature-05-02-25&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/cap&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="LibrarySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LibrarySystem" />
