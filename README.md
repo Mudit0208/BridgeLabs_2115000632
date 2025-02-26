@@ -367,3 +367,168 @@
 📌 *Problem 5:* *Comparing Different Data Structures for Searching*  
 
 ---
+
+## *Day-19 🚀*  
+📅 *Date:* 18-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Java Generics*  
+✔ *Introduction to Generics*  
+✔ *Type Parameters*  
+✔ *Generic Classes*  
+✔ *Generic Methods*  
+✔ *Bounded Type Parameters*  
+✔ *Wildcards*  
+
+### *Practice Problems:*  
+📌 *Smart Warehouse Management System*  
+📌 *Dynamic Online Marketplace*  
+📌 *Multi-Level University Course Management System*  
+📌 *Personalized Meal Plan Generator*  
+📌 *AI-Driven Resume Screening System*  
+
+---  
+
+## *Day-20 🚀*  
+📅 *Date:* 19-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Collections*  
+✔ *Overview of Collections Framework*  
+✔ *What is the Collections Framework?*  
+✔ *Hierarchy of Collections Framework*  
+
+### *Practice Problems:*  
+📌 *Reverse a List*  
+📌 *Find Frequency of Elements*  
+📌 *Remove Duplicates While Preserving Order*  
+📌 *Check if Two Sets Are Equal*  
+📌 *Union and Intersection of Two Sets*  
+
+---  
+
+## *Day-21 🚀*  
+📅 *Date:* 20-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Java Streams*  
+✔ *Java I/O Streams*  
+✔ *Types of Streams*  
+
+### *Practice Problems:*  
+📌 *File Handling - Read and Write a Text File*  
+📌 *Buffered Streams - Efficient File Copy*  
+📌 *Read User Input from Console*  
+📌 *Serialization - Save and Retrieve an Object*  
+📌 *ByteArray Stream - Convert Image to ByteArray*  
+
+---  
+
+## *Day-22 🚀*  
+📅 *Date:* 21-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Exceptions*  
+✔ *Types of Exceptions*  
+✔ *Handling Exceptions*  
+✔ *Creating Custom Exceptions*  
+✔ *Extending Exception Class*  
+✔ *Defining Constructors*  
+
+### *Practice Problems:*  
+📌 *Checked Exception (Compile-time Exception)*  
+📌 *Unchecked Exception (Runtime Exception)*  
+📌 *Custom Exception (User-defined Exception)*  
+📌 *Multiple Catch Blocks*  
+📌 *try-with-resources (Auto-closing Resources)*  
+📌 *throw vs. throws (Exception Propagation)*  
+📌 *finally Block Execution*  
+📌 *Bank Transaction System (Checked + Custom Exception)*  
+
+---  
+
+## *Day-23 🚀*  
+📅 *Date:* 22-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Regex & JUnit*  
+✔ *Regex*  
+✔ *MetaCharacters*  
+✔ *Quantifiers*  
+✔ *Introduction to JUnit Framework*  
+✔ *JUnit Annotations*  
+✔ *Writing Test Cases*  
+✔ *Structure of a Test Class*  
+✔ *Assertions*  
+
+### *Practice Problems:*  
+📌 *Email Validation (Detailed)*  
+📌 *Password Strength Validation*  
+📌 *Extract Dates from a String*  
+📌 *Testing String Utility Methods*  
+📌 *Testing List Operations*  
+📌 *Testing Exception Handling*  
+📌 *Testing @BeforeEach and @AfterEach Annotations*  
+📌 *Testing Parameterized Tests*  
+
+---
+
+## *Day-24 🚀*  
+📅 *Date:* 24-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Annotations*  
+✔ *Reflection*  
+
+### *Practice Problems:*  
+📌 *Custom Logging Proxy Using Reflection*  
+📌 *Dependency Injection Using Reflection*  
+📌 *Method Execution Timing*  
+📌 *Create a Custom Object Mapper*  
+📌 *Generate a JSON Representation*  
+
+---  
+
+## *Day-25 🚀*  
+📅 *Date:* 25-Feb-2025  
+
+### *Topics Covered:*  
+✔ *CSV Data Handling*  
+✔ *Introduction to CSV*  
+✔ *Reading CSV Files*  
+✔ *Writing CSV Files*  
+✔ *Parsing CSV Data*  
+✔ *Data Validation*  
+
+### *Practice Problems:*  
+📌 *Read and Count Rows in a CSV File*  
+📌 *Filter Records from CSV*  
+📌 *Search for a Record in CSV*  
+📌 *Sort CSV Records by a Column*  
+📌 *Validate CSV Data Before Processing*  
+
+---  
+
+## *Day-26 🚀*  
+📅 *Date:* 26-Feb-2025  
+
+### *Topics Covered:*  
+✔ *JSON Data*  
+✔ *Introduction to JSON*  
+✔ *Reading JSON Data*  
+✔ *Writing JSON Data*  
+✔ *Parsing JSON Data*  
+✔ *JSON Schema Validation*  
+
+### *Practice Problems:*  
+📌 *Read a JSON file and print all keys and values*  
+📌 *Convert a list of Java objects into a JSON array*  
+📌 *Filter JSON data: Print only users older than 25 years*  
+📌 *Validate an email field using JSON Schema*  
+📌 *Merge two JSON files into a single JSON object*  
+📌 *Convert JSON to XML format*  
+📌 *Convert CSV data into JSON*  
+📌 *Generate a JSON report from database records*  
+📌 *IPL and Censor Analyzer*  
+
+---
